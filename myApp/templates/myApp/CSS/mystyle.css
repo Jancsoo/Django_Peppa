@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(173, 15, 28);
+  background-image: url("peppa.jpg");
+    font-size: 20px;
+}
+
+
+li {
+  display: inline;
+    font-family: arial;
+}
